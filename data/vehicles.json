@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bajaj",
+        "type": "bike",
+        "price": "10000",
+        "image": "https:\/\/www.banglamotor.net\/bajaj-pulsar-n250.html"
+    },
+    {
+        "name": "Bajaj",
+        "type": "bike",
+        "price": "10000",
+        "image": "https:\/\/images.app.goo.gl\/oFNvDzyzSrqXcBJx5"
+    },
+    {
+        "name": "hunda",
+        "type": "bike",
+        "price": "44444",
+        "image": "https:\/\/media.zigcdn.com\/media\/model\/2024\/Feb\/bajaj-pulsar-ns200-right-side-view.jpg"
+    }
+]
